@@ -204,6 +204,10 @@ We have provided [some samples](examples/) for your reference.
 
 ### 🎮 Run Inference
 
+```bash
+streamlit run streamlit_inference.py
+```
+
 Simply to run the `scripts/inference.py` and pass `source_image` and `driving_audio` as input:
 
 ```bash
